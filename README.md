@@ -9,6 +9,8 @@
 
 ### Целевая аудитория
 ![image](https://github.com/ambushidozho/Highload_AppMetrica/assets/102957421/16ba3e63-f397-47a5-be7a-d1f8e2e8a5e7)
+![image](https://github.com/ambushidozho/Highload_AppMetrica/assets/102957421/9593bfe4-4443-44be-b367-39504e46e00b)
+
 
 
 ### MVP
