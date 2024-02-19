@@ -41,3 +41,5 @@
 * https://habr.com/ru/articles/322724/
 * https://habr.com/ru/articles/509540/
 * https://appmetrica.yandex.ru/about
+* https://www.youtube.com/watch?v=iTFsfc9hYjA&ab_channel=HighLoadChannel
+* https://www.similarweb.com/ru/
