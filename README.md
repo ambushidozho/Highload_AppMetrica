@@ -27,6 +27,8 @@
 
 ### Аналоги
 * [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Adjust](https://www.adjust.com/)
+* [Flurry](https://www.flurry.com/)
 * [Amplitude](https://amplitude.com/)
 
 ## Список источников: <a name="sources"></a>
